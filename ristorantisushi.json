@@ -1,0 +1,75 @@
+{
+  "ristoranti": [
+    {
+      "nome": "Sushi Queen",
+      "indirizzo": "Via Leonardo da Vinci, 13, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "+39 0862 1822218",
+      "website": "https://www.sushiqueen.it/",
+      "pranzo": "12:00 - 15:30",
+      "cena": "19:00 - 23:30"
+    },
+    {
+      "nome": "Sushikaiten",
+      "indirizzo": "Via della Crocetta, snc, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "+39 0862 080100",
+      "website": "https://www.sushikaiten.it/ristorante/laquila",
+      "pranzo": "12:30 - 15:00",
+      "cena": "19:30 - 23:30"
+    },
+    {
+      "nome": "Ristorante Orientale Okaeri",
+      "indirizzo": "V.le della Croce Rossa, 163, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "3755274825",
+      "website": "https://go.ordelivery.shop/#/restaurantPage?string_id=CFNTO",
+      "pranzo": "12:00-15:00",
+      "cena": "19:00-23:30"
+    },
+    {
+      "nome": "Sushi OK",
+      "indirizzo": "Via Beato Cesidio, 23, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "3807759437",
+      "website": "Non disponibile",
+      "pranzo": "11:00-14:30",
+      "cena": "17:30-22:30"
+
+      },
+    {
+      "nome": "Yuki Sushi Restaurant",
+      "indirizzo": "V.le Corrado IV, 32, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "08621820365",
+      "website": "Non disponibile",
+      "pranzo": "12:00-15:00",
+      "cena": "19:00-23:30"
+    },
+    {
+      "nome": "Sensei Sushi & Pokè",
+      "indirizzo": "Via Sassa, 10, 67100 L'Aquila AQ",
+      "latitudine": "42.3510° N",
+      "longitudine": "13.3950° E",
+      "telefono": "3347304963",
+      "website": "https://www.sen6sushi.it",
+      "pranzo": "12:00-14:30",
+      "cena": "18:30-22:30"
+    },
+    {
+      "nome": "King Sushi & Pokè",
+      "indirizzo": "Via Castello, 19, 67100 L'Aquila AQ",
+      "latitudine": "42.3520° N",
+      "longitudine": "13.3955° E",
+      "telefono": "3713822647",
+      "website": "https://kingsushiaq.com",
+      "pranzo": "11:30-15:00",
+      "cena": "18:30-23:00"
+    }
+  ]
+}
