@@ -1,5 +1,4 @@
-{
-  "ristoranti": [
+[
     {
       "nome": "Sushi Queen",
       "indirizzo": "Via Leonardo da Vinci, 13, 67100 L'Aquila AQ",
@@ -72,4 +71,4 @@
       "cena": "18:30-23:00"
     }
   ]
-}
+
