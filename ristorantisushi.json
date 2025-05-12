@@ -1,6 +1,7 @@
 [
     {
       "nome": "Sushi Queen",
+      "ID": "1",
       "indirizzo": "Via Leonardo da Vinci, 13, 67100 L'Aquila AQ",
       "latitudine": 42.36656302721253,
       "longitudine": 13.37216975412492,
@@ -11,6 +12,7 @@
     },
     {
       "nome": "Sushikaiten",
+      "ID": "2",
       "indirizzo": "Via della Crocetta, snc, 67100 L'Aquila AQ",
       "latitudine": 42.34781817031599,
       "longitudine": 13.410750996452027,
@@ -21,6 +23,7 @@
     },
     {
       "nome": "Ristorante Orientale Okaeri",
+      "ID": "3",
       "indirizzo": "V.le della Croce Rossa, 163, 67100 L'Aquila AQ",
       "latitudine": 42.35720196564084,
       "longitudine": 13.39058560994473,
@@ -31,6 +34,7 @@
     },
     {
       "nome": "Sushi OK",
+      "ID": "4",
       "indirizzo": "Via Beato Cesidio, 23, 67100 L'Aquila AQ",
       "latitudine": 42.3573635216805,
       "longitudine": 13.386487938780864,
@@ -42,6 +46,7 @@
       },
     {
       "nome": "Yuki Sushi Restaurant",
+      "ID": "5",
       "indirizzo": "V.le Corrado IV, 32, 67100 L'Aquila AQ",
       "latitudine": 42.357465305931335,
       "longitudine": 13.385583705710207,
@@ -52,6 +57,7 @@
     },
     {
       "nome": "Sensei Sushi & Pokè",
+      "ID": "6",
       "indirizzo": "Via Sassa, 10, 67100 L'Aquila AQ",
       "latitudine": 42.35515685965921,
       "longitudine": 13.398641287562608,
@@ -62,6 +68,7 @@
     },
     {
       "nome": "King Sushi & Pokè",
+      "ID": "7",
       "indirizzo": "Via Castello, 19, 67100 L'Aquila AQ",
       "latitudine": 42.35277155851131,
       "longitudine": 13.4017572676164,
